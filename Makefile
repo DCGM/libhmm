@@ -1,4 +1,5 @@
-
+# @author David Zouhar
+# @license BSD
 CC=gcc
 CXX=g++
 AR=ar
